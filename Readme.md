@@ -9,3 +9,7 @@ Equipo
 5. Gaston Emiliano Riveros
 6. Gustavo De Llac
 7. Dario Lucas Tamini
+
+Los paquetes que se deben de instalar para poder correr el codigo en condiciones son: 
+
+pip install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy pymysql -U flask-cors
