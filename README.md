@@ -21,3 +21,5 @@ pip install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy pymy
 Tambien hay que descargar la base de datos MySql ya que sino no figurara ningun producto en el catalogo
 
 Base de Datos MySql Ecommerce.csv
+
+Recomendamos que la base sea un proyecto llamado omega_project para que tome los datos correctamente
