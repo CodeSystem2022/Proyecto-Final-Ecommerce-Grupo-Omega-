@@ -13,3 +13,6 @@ Equipo
 Los paquetes que se deben de instalar para poder correr el codigo en condiciones son: 
 
 pip install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy pymysql -U flask-cors
+
+Tambien hay que descargar la base de datos MySql ya que sino no figurara ningun producto en el catalogo
+Base de Datos MySql Ecommerce.csv
