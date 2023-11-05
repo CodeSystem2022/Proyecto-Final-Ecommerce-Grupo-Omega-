@@ -1,6 +1,6 @@
 # Proyecto Final Ecommerce Grupo Omega 
 
-Equipo
+## Equipo
 
 1. Julieta Gutierrez
 2. Nicolas Abete
